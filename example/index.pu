@@ -1,0 +1,15 @@
+%title Example site
+%notitle
+%nodate
+%meta A simple example site
+%sidebar activity links
+
+Plutonium site sources are written in the wonderful *Markdown* format.  They
+can be written using any text editor, although Plutonium itself is designed to
+work with VimWiki, and hence I recommend that you use Vim, mightiest of text
+editors.
+
+As a token of good faith, I have included for you a copy of my review of the
+book [[Ringworld]]. I hated it, and now you too can hate it.
+
+Check out the [[archive]].
